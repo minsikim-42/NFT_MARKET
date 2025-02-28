@@ -1,3 +1,5 @@
+# NFT_MARKET(2021.05 ~ 2021.07)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -30,6 +32,7 @@ You will also see any lint errors in the console.
 
 지갑 페이지
 <img width="822" alt="스크린샷 2025-02-28 오후 5 57 59" src="https://github.com/user-attachments/assets/a2a4fc22-0124-4e24-af67-e43500a74c99" />
+<img width="866" alt="스크린샷 2025-02-28 오후 6 02 29" src="https://github.com/user-attachments/assets/9f67f36c-9b7d-4e68-bed8-52d66b41398d" />
 
 
 //
